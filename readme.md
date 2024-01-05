@@ -12,7 +12,7 @@ $ flask --app main run
  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
  ```
 
-##Explanation
+## Explanation
 Click on "Add Movie" and enter movie title. Server will get results from "TMDB API".
 Select one, and it will be stored in a database. 
 You can also rate Movies and with refreshing "index.html" your movies will be sorted.
